@@ -1,0 +1,18 @@
+# Data Science Projects
+### Author: [mavisw](https://github.com/mavisw) &copy; 2022
+
+|    Project   |   Technology  |   Language / Tool  |        Links       |
+|:-------------| :------------ | :----------------  | :----------------  |
+| [Database Design & Query for Petfinder](https://github.com/mavis-wang/Petfinder-Database-Design) | `Database` | `MySQL` | -- |
+| [US Shelter Dog/Cat Distribution Analysis](https://github.com/mavis-wang/US-Animal-Shelter-Overcrowding-Geo-Analysis) | `Visualization` | `Tableau` | [Slides](https://docs.google.com/presentation/d/1ztvoWKKZVsUheLe6urNnDhgU-r4WxpO5TIHfdwet1go/present?usp=sharing) / [Demo](https://public.tableau.com/views/2020USShelterAnimalIntakeDistribution/StoryIntakes?:language=en-US&:display_count=n&:origin=viz_share_link) / [Paper](https://drive.google.com/file/d/1U1IgSvrPaZtgYW8EHAGIstILcexSUzm-/view?usp=sharing)|
+| [Facial Expression Recognition](https://github.com/mavis-wang/Facial-Expression-Recognition-Classification) | `Image Classification` , `Machine Learning` | `Python` , `Keras` | [Slides](https://github.com/mavis-wang/Facial-Expression-Recognition-Classification/blob/main/T2_Facial_Expression%20Recognition_Results.pdf)|
+| [Breast Tumor Predition](https://github.com/mavis-wang/Breast-Tumor-Classification-on-PCam) | `Image Classification` , `Deep Learning` | `Python` , `OpenCV` , `TensorFlow` | [Slides](https://github.com/mavis-wang/Breast-Tumor-Classification-on-PCam/blob/main/PCam_slides.pdf)|
+| [Fashion AI-AR Video Try-On](https://github.com/SJSUMS/SMART-MIRROR-FASHION-AI_SMFAI) | `Deep Learning` , `Computer Vision` , `Human Pose Estimation` , `Semantic Segmentation` , `Pose Tracking` , `Image Masking` | `Python` , `OpenCV` , `PyTorch` , `TensorFlow` | [Slides](https://docs.google.com/presentation/d/1E7Yp80WgeTmb1xrBq-GbTdtRsQMCSD1jUvzFqo3Tu9I/present?usp=sharing) / [Demo](https://www.youtube.com/watch?v=6Am-NE1LYes) / [Paper](https://drive.google.com/file/d/1AnocCvgEmQP2fdZu_HuTD_Mg2Pc4YmuU/view?usp=sharing)|
+
+### Coding Exercises
+
+|      Repo    |     SQL    |      Python     |     Algorithm     |  Data Engineering | Stats | ML/DL  |
+|:-------------| :--------- | :------------  | :---------------  | :--------  | :--------  | :--------  |
+|  [DSNote](https://github.com/mavis-wang/DSNotes) | [Schema](https://github.com/mavis-wang/DSNotes/blob/main/demo/DB_schema.sql) / [Stored Procedure](https://github.com/mavis-wang/DSNotes/blob/main/demo/DB_stored_procedure.sql) / [Pet Info Query](https://github.com/mavis-wang/DSNotes/blob/main/demo/DB_pet_Queries.sql) / [Provider Query](https://github.com/mavis-wang/DSNotes/blob/main/demo/DB_Provider_Queries.sql) / [Adopter Query](https://github.com/mavis-wang/DSNotes/blob/main/demo/DB_adopter_Queries.sql) | [Python Basics](https://github.com/mavis-wang/DSNotes/tree/main/01%20Basics) | [leetCode Problems](https://github.com/mavis-wang/DSNotes/tree/main/leetCode_problems) | [Fashion Product Image Wrangling](https://github.com/mavis-wang/DSNotes/blob/main/demo/dataEng_FashionProductItem.ipynb) / [Facial Expression Image Data Exploration](FER_dataPrep.ipynb) | [Linear Regression](https://github.com/mavis-wang/DSNotes/blob/main/demo/stats_linearReg.ipynb) / [Probability Hypothesis Testing](https://github.com/mavis-wang/DSNotes/blob/main/demo/stats_prob_hypo.ipynb) / [Optimization](https://github.com/mavis-wang/DSNotes/blob/main/demo/stats_optimization.ipynb) | [Human Pose Detaction](https://github.com/mavis-wang/DSNotes/blob/main/demo/Human_Pose_Detection_DL.ipynb) / [Facial Expression Recognition](https://github.com/mavis-wang/DSNotes/blob/main/demo/FER_Ensemble_DL.ipynb) / [Breast Cancer Prediction (big data)](https://github.com/mavis-wang/DSNotes/blob/main/demo/Breast_Cancer_Prediction_DL.ipynb)|
+
+
