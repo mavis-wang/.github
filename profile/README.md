@@ -1,11 +1,15 @@
-# Data Science Research
-### &copy; 2022
+# Data Science and Analysis
+### [mavisw](https://github.com/mavisw) &copy; 2022
 
 
-|    Project   |   Technology  |   Language / Tool  |  
-|:-------------| :------------ | :----------------  | 
-| [Fashion AI-AR Video Try-On](https://github.com/mavis-wang/FAI_VTON) | `Deep Learning` , `Computer Vision` , `Human Pose Estimation` , `Semantic Segmentation` , `Pose Tracking` , `Image Masking` | `Python` , `OpenCV` , `PyTorch` , `TensorFlow` | [Slides](https://docs.google.com/presentation/d/1E7Yp80WgeTmb1xrBq-GbTdtRsQMCSD1jUvzFqo3Tu9I/present?usp=sharing) / [Demo](https://www.youtube.com/watch?v=6Am-NE1LYes) / [Paper](https://drive.google.com/file/d/1AnocCvgEmQP2fdZu_HuTD_Mg2Pc4YmuU/view?usp=sharing)|
-| [US Shelter Dog/Cat Distribution Analysis](https://github.com/mavis-wang/US-Animal-Shelter-Overcrowding-Geo-Analysis) | `Visualization` | `Tableau` | [Slides](https://docs.google.com/presentation/d/1ztvoWKKZVsUheLe6urNnDhgU-r4WxpO5TIHfdwet1go/present?usp=sharing) / [Demo](https://public.tableau.com/views/2020USShelterAnimalIntakeDistribution/StoryIntakes?:language=en-US&:display_count=n&:origin=viz_share_link) / [Paper](https://drive.google.com/file/d/1U1IgSvrPaZtgYW8EHAGIstILcexSUzm-/view?usp=sharing)|
-| [Database Design & Query for Petfinder](https://github.com/mavis-wang/Petfinder-Database-Design) | `Database` | `MySQL` | -- |
-| [Breast Tumor Predition](https://github.com/mavis-wang/Breast-Tumor-Classification-on-PCam) | `Image Classification` , `Deep Learning` | `Python` , `OpenCV` , `TensorFlow` | [Slides](https://github.com/mavis-wang/Breast-Tumor-Classification-on-PCam/blob/main/PCam_slides.pdf)|
-| [Facial Expression Recognition](https://github.com/mavis-wang/Facial-Expression-Recognition-Classification) | `Image Classification` , `Machine Learning` | `Python` , `Keras` | [Slides](https://github.com/mavis-wang/Facial-Expression-Recognition-Classification/blob/main/T2_Facial_Expression%20Recognition_Results.pdf)|
+|    Project   |   Technology  |   Language / Tool  |        Code      |
+|:-------------| :------------ | :----------------  | :----------------  |
+| [Fashion AI-AR Video Try-On](https://github.com/mavis-wang/FAI_VTON) | `Deep Learning` , `Computer Vision` , `Keypoint Detection` , `Body Segmentation` , `Pose Tracking` | `Python` , `OpenCV` , `PyTorch` , `TensorFlow` | [Utils.py](https://github.com/mavis-wang/DSNotes/blob/main/demo/FAI_VTON_utils.py), [Data Engineering](https://github.com/mavis-wang/DSNotes/blob/main/demo/dataEng_FashionProductItem.ipynb), [Human Pose Estimation](https://github.com/mavis-wang/DSNotes/blob/main/demo/Human_Pose_Detection_DL.ipynb)|
+| [Breast Cancer Predition](https://github.com/mavis-wang/Breast-Tumor-Classification-on-PCam) | `Image Classification` , `Deep Learning` | `Python` , `OpenCV` , `TensorFlow` | [Transfer Learning](https://github.com/mavis-wang/DSNotes/blob/main/demo/Breast_Cancer_Prediction_DL.ipynb)|
+| [Facial Expression Recognition](https://github.com/mavis-wang/Facial-Expression-Recognition-Classification) | `Image Classification` , `Machine Learning` | `Python` , `Keras` | [EDA](https://github.com/mavis-wang/DSNotes/blob/main/demo/FER_dataPrep.ipynb), [Model Training (Ensembled)](https://github.com/mavis-wang/DSNotes/blob/main/demo/FER_Ensemble_DL.ipynb)|
+| [US Shelter Dog/Cat Distribution Analysis](https://github.com/mavis-wang/US-Animal-Shelter-Overcrowding-Geo-Analysis) | `Visualization` | `Tableau` | [Data Processing](https://github.com/SJSUMS/US-Animal-Shelter-Intake-and-Adoption-Analysis-master/blob/main/process_data.ipynb) / [Dashboard](https://public.tableau.com/views/2020USShelterAnimalIntakeDistribution/StoryIntakes?:language=en-US&:display_count=n&:origin=viz_share_link))|
+| [Petfinder Database Design & Query](https://github.com/mavis-wang/Petfinder-Database-Design) | `Database` , `Data Modeling` , `Query`| `MySQL` | [Schema](https://github.com/mavis-wang/DSNotes/blob/main/demo/DB_schema.sql), [Stored Procedure](https://github.com/mavis-wang/DSNotes/blob/main/demo/DB_stored_procedure.sql), [Query](https://github.com/mavis-wang/DSNotes/blob/main/demo/DB_adopter_Queries.sql)|
+| House Price Variables Analysis | `Statistic Modeling` ,`Least Squared` , `R-Score` , `Linear Regression`| `scikit-learn` , `numpy` , `pandas` , 'matplotlib' | [ANOVA (univariate and multivariate)](https://github.com/mavis-wang/DSNotes/blob/main/demo/stats_linearReg.ipynb) |
+| Linear Programming | `Statistic Modeling` , `Optimization` | `SciPy` , `Seaborn` | [Optimization Problem](https://github.com/mavis-wang/DSNotes/blob/main/demo/stats_optimization.ipynb)|
+| Probability & Hypothesis Test | `Statistic` , `Probability` , `Hypothesis Testing` , `t-test` | `Scipy` , `Numpy` , 'Pandas' | [Probability and AB Test](https://github.com/mavis-wang/DSNotes/blob/main/demo/stats_prob_hypo.ipynb) |
+
